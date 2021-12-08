@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Alejandro and I'm a full-time full-stack student 
 
 
-**alexdt15/alexdt15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 - 🔭 I’m currently studying a Bootcamp on Full-Stack Web Development
@@ -9,6 +9,8 @@
 - ❤️ I'm loving all-things JavaScript and have recently worked on my first Full-Stack project
 - 📫 How to reach me: https://www.linkedin.com/in/alejandrodelgadotrujillo/
 - ⚡ Fun fact: Aside from coding, I am in love with nature and sports, specially surfing 
+
+---
 
 
 **Languages and Tools:**  
@@ -24,7 +26,7 @@
  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 
-
+---
 
 
 ![alexdt15's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexdt15&show_icons=true&theme=dark)
