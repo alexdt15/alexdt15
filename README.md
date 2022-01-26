@@ -1,10 +1,10 @@
-### Hi there 👋, my name is Alejandro and I'm a full-time full-stack student 
+### Hi there 👋, my name is Alejandro and I'm a junior full-stack developer 
 
 
 
 
 
-- 🔭 I’m currently studying a Bootcamp on Full-Stack Web Development
+- 🔭 I’m currently finishing a Bootcamp on Full-Stack Web Development
 - 🌱 I’m currently learning React, advanced JavaScript and Responsive Design
 - ❤️ I'm loving all-things JavaScript and have recently worked on my first Full-Stack project
 - 📫 How to reach me: https://www.linkedin.com/in/alejandrodelgadotrujillo/
