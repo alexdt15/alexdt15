@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently finishing a Bootcamp on Full-Stack Web Development
+- 🔭 I've recently studied a Bootcamp on Full-Stack Web Development
 - 🌱 I’m currently learning React, advanced JavaScript and Responsive Design
 - ❤️ I'm loving all-things JavaScript and have recently worked on my first Full-Stack project
 - 📫 How to reach me: https://www.linkedin.com/in/alejandrodelgadotrujillo/
