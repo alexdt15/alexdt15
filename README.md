@@ -5,8 +5,8 @@
 
 
 - 🔭 I've recently studied a Bootcamp on Full-Stack Web Development
-- 🌱 I’m currently improving on React, advanced JavaScript and Responsive Design
-- ❤️ I'm loving all-things JavaScript and have recently worked on my first Full-Stack project
+- 🌱 I’m currently improving my stack by learning Java SpringBoot, GraphQL, Rabbit Mq and Kafka
+- ❤️ I'm loving all-things JavaScript and its frameworks, especially React
 - 📫 How to reach me: https://www.linkedin.com/in/alejandrodelgadotrujillo/
 - ⚡ Fun fact: Aside from coding, I am in love with nature and sports, specially surfing 
 
