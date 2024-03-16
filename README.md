@@ -1,14 +1,14 @@
-### Hi there 👋, my name is Alejandro and I'm a junior full-stack developer 
+### Hi there 👋, my name is Alejandro and I'm a Full-Stack Developer 
 
 
 
 
 
-- 🔭 I recently studied a Boocamp on Full-Stack Web Development and  currently work as a Junior Developer 
-- 🌱 I’m currently improving my stack by learning Java SpringBoot, GraphQL, Rabbit Mq and Kafka
-- ❤️ I'm loving all-things JavaScript/TypeScript and its frameworks, especially React and Angular
+- 🔭 I  studied a Boocamp on Full-Stack Web Development and  currently work as a Developer 
+- 🌱 I’m currently working on Angular, NodeJS and SQLServer, while learning Apollo in my spare time!
+- ❤️ I'm loving all-things JavaScript/TypeScript and its frameworks, especially React , Astro and Angular
 - 📫 How to reach me: https://www.linkedin.com/in/alejandrodelgadotrujillo/
-- ⚡ Fun fact: Aside from coding, I am in love with nature and sports, specially surfing 
+- ⚡ Fun fact: Aside from coding, I am in love with nature and sports, specially surfing and calisthenics 
 
 ---
 
